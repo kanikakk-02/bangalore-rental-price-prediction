@@ -90,4 +90,18 @@ python app.py
 
 Open the URL printed in the terminal to interact with the app in your browser.
 
+---
+
+## 🎯 Key Learnings
+
+-  Hands-on experience with web-scraping real-world rental data.
+-  Practiced data cleaning, preprocessing, and feature engineering.
+-  Compared multiple machine learning models and improved performance using Gradient Boosting.
+-  Built and deployed a Gradio-based web app for rental price prediction.
+
+---
+
+
+
+
 

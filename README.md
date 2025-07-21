@@ -57,5 +57,37 @@ rental-price-prediction/
 ├── README.md
 └── requirements.txt
 ```
+---
+
+## 🚀 How to Run the App Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/rental-price-prediction.git
+cd rental-price-prediction/rental_price_app
+```
+
+### 2. Create a Virtual Environment (Optional but Recommended)
+
+```bash
+python -m venv venv
+source venv/bin/activate  # For Linux/macOS
+venv\Scripts\activate     # For Windows
+```
+
+### 3. Install Required Libraries
+
+```bash
+pip install -r ../requirements.txt
+```
+
+### 4. Run the Gradio App
+
+```bash
+python app.py
+```
+
+Open the URL printed in the terminal to interact with the app in your browser.
 
 
